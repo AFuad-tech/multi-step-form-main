@@ -38,7 +38,7 @@ Users should be able to:
       - A step is submitted, but no selection has been made
 
 Screenshot
-![Multi-step form screenshot](Multistep-form-screenshot.PNG)
+![Multi-step form screenshot](Multistep-form-screenshot.jpg)
 Links
 
     Solution URL: Add solution URL here
